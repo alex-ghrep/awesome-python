@@ -1,5 +1,7 @@
 # Contributing
 
+Bitte sende die Datei anfolgende Email-Adresse: xyz@nirvana.com
+
 Your contributions are always welcome!
 
 ## Guideline
